@@ -39,7 +39,7 @@ Then add your Database username , password and database name in Helper_Session c
 Then include config.php file on to your code 
 
 
-I did simple persistent session sotorage model calss. If you want to add more data in to database you able change code and queries add more data 
+I did simple persistent session storage model calss. If you want to add more data in to database you able change code and queries add more data 
 
 IF you want extra logics edit MysqlSessionHandler 
 
